@@ -1,10 +1,7 @@
 # Contributors
-<<<<<<< HEAD
 
-=======
 - [Thangadurai Arumugam](https://github.com/thanga2014)
 - [Alex Taietti 🇮🇹](https://github.com/AlexTaietti)
->>>>>>> master
 - [Atishaye Jain](https://github.com/atishaye)
 - [Ahmed Gharib](https://github.com/ahmed-gharib89)
 - [YogeshNile](https://github.com/yogeshnile)
@@ -651,12 +648,8 @@
 - [Azibodusi Osain](https://github.com/osain-az)
 - [Shikha Bhat](https://github.com/shikha-16)
 - [Miha Lebaric](https://github.com/smehko)
-<<<<<<< HEAD
-- [Vineet Bhat](https://github.com/itbhat) -[shirly lee]((https://github.com/Shirly0723)
-=======
 - [Vineet Bhat](https://github.com/itbhat)
 - [shirly lee](https://github.com/Shirly0723)
->>>>>>> master
 - Deepak Kumar Narayanan
 - Isabelle Pouget
 - Divya Gaurav
@@ -2739,7 +2732,7 @@
 - [Chor Visalrotanak](https://github.com/visalrotanak)
 - [Jannik](https://github.com/EpansU)
 - [Akshaytech9](https://github.com/akshaytech9/)
-[Technohermit](https://github.com/technohermit)
+  [Technohermit](https://github.com/technohermit)
 - [Irene Arapogiorgi](https://github.com/IreneArapogiorgi)
 - [2277abdullah](https://github.com/2277abdullah)
 - [Alyssa](https://github.com/aghmkim)
@@ -4299,7 +4292,7 @@
 - [toastDev](https://github.com/cykevii)
 - [Moira Shooter](https://github.com/mshooter)
 - [Vishnu](https://github.com/vishnusr90/first-contributions)
-- [Sai](http://github.com/snerus11) 
+- [Sai](http://github.com/snerus11)
 - [Rishav Kumar](http://github.com/rishavjnv12)
 - [Sandip Mukherjee](https://github.com/SandyM33)
 - [Jethro Modequillo](https://github.com/potato874)
